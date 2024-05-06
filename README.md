@@ -1,2 +1,2 @@
-# 2024_ITESS_CALCULO_INTEGRAL
+# 2024_ITESS_TI202_CALCULO_INTEGRAL
 repositorio para octave calculo integral 
